@@ -1,5 +1,5 @@
-Django==1.11
-Jinja2==2.10
+Django==1.11.19
+Jinja2==2.10.1
 MarkupSafe==1.0
 coreapi==2.3.3
 coreschema==0.0.4
