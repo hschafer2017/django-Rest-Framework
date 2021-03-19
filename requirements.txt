@@ -4,7 +4,7 @@ MarkupSafe==1.0
 coreapi==2.3.3
 coreschema==0.0.4
 django-cors-headers==2.3.0
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 itypes==1.1.0
 pytz==2018.5
 uritemplate==3.0.0
